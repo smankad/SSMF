@@ -11,19 +11,5 @@ The "Code" subfolder contains 3 implementations of the proposed matrix factoriza
 
 If you find the code useful or in need of improvement, please let me know at spm263@cornell.edu.
 
-Referenced Paper: https://arxiv.org/abs/1607.07515
-
-@ARTICLE{2016arXiv160707515M,
-   author = {{Mankad}, S. and {Hu}, S. and {Gopal}, A.},
-    title = "{Single Stage Prediction with Embedded Topic Modeling of Online Reviews for Mobile App Management}",
-  journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1607.07515},
- primaryClass = "stat.AP",
- keywords = {Statistics - Applications, Computer Science - Information Retrieval, Computer Science - Software Engineering},
-     year = 2016,
-    month = jul,
-   adsurl = {http://adsabs.harvard.edu/abs/2016arXiv160707515M},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+Please cite the paper if you use the code or model: https://arxiv.org/abs/1607.07515
 
